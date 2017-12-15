@@ -8,8 +8,8 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 @EnableDiscoveryClient
 @EnableAdminServer
 @SpringBootApplication
-public class MsaAdminApplication {
+public class AdminApplication {
 	public static void main(String[] args) {
-		SpringApplication.run(MsaAdminApplication.class, args);
+		SpringApplication.run(AdminApplication.class, args);
 	}
 }
