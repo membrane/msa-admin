@@ -1,4 +1,4 @@
-package de.predic8.workshop.msaadmin;
+package de.predic8.workshop.admin;
 
 import de.codecentric.boot.admin.config.EnableAdminServer;
 import org.springframework.boot.SpringApplication;

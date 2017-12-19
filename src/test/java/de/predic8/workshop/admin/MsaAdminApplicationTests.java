@@ -1,4 +1,4 @@
-package de.predic8.workshop.msaadmin;
+package de.predic8.workshop.admin;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
